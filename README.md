@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by rivandri, airandri.*
+*This project has been created as part of the 42 curriculum by rivandri, airandri. Yohannee helped to add clarity to the code and resolves some minor and important bug issues*
 
 ---
 
